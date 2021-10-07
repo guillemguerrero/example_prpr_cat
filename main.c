@@ -2,7 +2,7 @@
 
 int main () {
 
-	printf("Hola Guillem soc en joan.farras !! :) \n");
+    printf("Menú: \n");
 
 	return 0;
 }
