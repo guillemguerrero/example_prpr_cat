@@ -2,7 +2,8 @@
 
 int main () {
 
-	printf("Hola profe!!!! :)\n");
+	printf("Menú: \n");
+	printf("1. Afegir repo\n");
 
 	return 0;
 }
