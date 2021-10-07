@@ -10,5 +10,7 @@ int main () {
 	
 	printf("	3. Eliminar repo\n");
 
+	printf("	4. Sortir\n");
+
 	return 0;
 }
