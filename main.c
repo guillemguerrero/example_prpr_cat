@@ -1,16 +1,6 @@
 #include <stdio.h>
 
 int main () {
-
-	int a = 0;
-	int* A,B;
-	A = &a;
-	B = B;
-	printf("Hola alumn@s de Projectes!\n");
-	printf("Com anaven els punters?\n");
-	printf("Valor del punter: %d\n, Adreça del punter: /d",*B, A);
-
-
-
+	printf("Menú:\n	 1. Afegir repo\n");
 	return 0;
 }
