@@ -2,16 +2,12 @@
 
 int main () {
 	
-	int edat;
-
-	printf("Hola alumn@s de Projectes!!:)\n");
-	printf("Em dic Jordi Rull\n");
-    printf("eklnfew kjbnwjñekbnqwñkjbnwge\n");
-
-    printf("introdueix la teva edat: \n");
-	scanf("%d", &edat);
-	
 	//add, commit, push
+	
+
+	printf("Menú: \n");
+	printf("\t1. Afegir repo\n");
+
 
 	return 0;
 }
