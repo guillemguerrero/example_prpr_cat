@@ -3,6 +3,6 @@
 int main () {
 
     printf("Menú: \n");
-
+    printf("    1.Afegir repo");
 	return 0;
 }
