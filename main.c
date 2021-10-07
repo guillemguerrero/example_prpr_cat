@@ -2,7 +2,7 @@
 
 int main () {
 
-	printf("Hola alumn@s de Projectes!!:)\n");
+	printf("Hola soy Luis Vilaclara!!:)\n");
 
 	return 0;
 }
