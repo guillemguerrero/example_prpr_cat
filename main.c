@@ -8,6 +8,7 @@ int main () {
 
 	printf("	2. Modificar repo\n");
 	
+	printf("	3. Eliminar repo\n");
 
 	return 0;
 }
