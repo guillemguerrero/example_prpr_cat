@@ -5,5 +5,7 @@ int main () {
 	printf("Hola alumn@s de Projectes!!:)\n");
 	printf("Bienvenidos a la asignatura\n");
 
+    ewfqwgqegqegqegrgqgqgqegergeqrg
+
 	return 0;
 }
