@@ -3,10 +3,10 @@
 int main () {
         int i = 0;
 
-	printf("Hola alumn@s de Projectes!!:)\n");
+	printf("El codi és: ");
         
         for (i = 0; i < 3; i++) {        
-             printf("El codi és: 861 3614 3855\n");
+             printf("861 3614 3855\n");
         }
 
 	return 0;
