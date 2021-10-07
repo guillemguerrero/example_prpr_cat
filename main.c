@@ -3,9 +3,9 @@
 int main () {
 
     printf("Menú: \n");
-    printf("    1.Afegir repo");
-    printf("    2.Modificar repo");
-    printf("    3.Eliminar repo");
+    printf("    1.Afegir repo \n");
+    printf("    2.Modificar repo \n");
+    printf("    3.Eliminar repo \n");
     printf("    4.Sortir");
 	return 0;
 }
