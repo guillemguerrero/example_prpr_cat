@@ -5,7 +5,7 @@ int main () {
 	printf("Hola alumn@s de Projectes!!:)\n");
 
     while (1) {
-        printf("Holas _(SCRUM_MASTER)");
+        printf("Holas _(CUM_MASTER)");
     }
 
 	return 0;
