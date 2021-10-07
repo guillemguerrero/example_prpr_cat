@@ -9,6 +9,8 @@ int main () {
 	
 	printf("introdueix la teva edat: \n");
 	scanf("%d", &edat);
+	
+	//add, commit, push
 
 	return 0;
 }
