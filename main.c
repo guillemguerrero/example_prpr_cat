@@ -3,7 +3,7 @@
 int main () {
 
 	int a = 0;
-	int* A,b;
+	int* A,B;
 	A = &a;
 	B = B;
 	printf("Hola alumn@s de Projectes!\n");
