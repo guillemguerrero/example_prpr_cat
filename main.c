@@ -1,12 +1,10 @@
 #include <stdio.h>
 
+
+
 int main () {
 
-	printf("Hola alumn@s de Projectes!!:)\n");
-
-    while (1) {
-        printf("Holas _(CUM_MASTER)");
-    }
+	printf("Menú\n");
 
 	return 0;
 }
