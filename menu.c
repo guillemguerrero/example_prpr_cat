@@ -7,6 +7,7 @@ int main() {
 	printf("\t1. Afegir repositori\n");
 	printf("\t2. Modificar repositori\n");
 	printf("\t3. Eliminar repositori\n");
+	printf("\t4. Sortir\n");
 
 return 0;
 }
