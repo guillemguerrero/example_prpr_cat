@@ -1,10 +1,11 @@
 #include <stdio.h>
 
 int main () {
-
-	printf("Hola alumn@s de Projectes!!:)\n");
-
-	printf("Hola :D\n");
+	
+	printf("Menú:\n");
+	
+	printf("	1. Afegir repo\n");
+	
 
 	return 0;
 }
