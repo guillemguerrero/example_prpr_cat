@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main () {
-	printf("pah\n");
+    printf("afegir repo")
 
 	return 0;
 }
