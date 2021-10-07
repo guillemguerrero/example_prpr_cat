@@ -6,6 +6,12 @@ typedef struct UnStructGuay
 	void* algo;
 }UnStructGuay;
 
+typedef struct UnStructNormal
+{
+	int nivellDeNormal;
+	void* algo;
+}UnStructGuay;
+
 
 int main () {
 
