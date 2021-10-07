@@ -7,6 +7,7 @@ int main () {
 	printf("1.- Afegir repo\n");
 	printf("2.- Modificar repo\n");
 	printf("3- Eliminar repo\n");
+	printf("4.- Sortir\n");
 	do{
 		switch(opcio){
 		case 1:
@@ -17,6 +18,9 @@ int main () {
 			break;
 		case 3:
 			printf("Eliminar repo");
+			break;
+		case 4:
+			printf("Adeu");
 			break;
 		default:
 			printf("No has introducido un numero valido! :\(");
