@@ -3,7 +3,7 @@
 int main () {
 
 	printf("
-			Hola alumn@s de Projectes!!:
+			Adeu alumn@s de Projectes!!:
 
 
 
