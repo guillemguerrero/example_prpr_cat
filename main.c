@@ -10,7 +10,7 @@ typedef struct UnStructNormal
 {
 	int nivellDeNormal;
 	void* algo;
-}UnStructGuay;
+}UnStructNormal;
 
 
 int main () {
@@ -22,6 +22,9 @@ int main () {
 
 	UnStructGuay structGuay = { 10000, &a} ;
 	printf("%d", structGuay.nivellDeGuay);
+
+	UnStructNormal structNormal = { 10000, &a} ;
+	printf("%d", structNormal.nivellDeNormal);
 
 	return 0;
 }
