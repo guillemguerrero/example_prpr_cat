@@ -9,7 +9,5 @@ int main () {
              printf("El codi és: 861 3614 3855\n");
         }
 
-    printf("SCRUM MASTER");
-
 	return 0;
 }
