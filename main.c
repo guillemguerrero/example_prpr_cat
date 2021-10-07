@@ -26,7 +26,6 @@ la tierra de Etiopía.
 Hidekel; éste es el que corre al
 oriente de Asiria. Y el cuarto río
 es el Éufrates.
-15 Tomó, pues, Jehová Dios al
 hombre y le puso en el huerto
 de a Edén, para que lo labrase y
 lo guardase.
