@@ -2,7 +2,8 @@
 
 int main () {
 
-	printf("Hola alumn@s de Projectes!!:)\n");
-	printf("Fake Taxi");
+	printf("Menu\n");
+	printf("Afegir repo: \n");
+	
 	return 0;
 }
