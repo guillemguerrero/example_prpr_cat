@@ -7,5 +7,7 @@ int main () {
 	printf("Eliminar Repo\n");
 	printf("Sortir Repo\n");
 
+	printf("Prova Sublime Merge")
+
 	return 0;
 }
